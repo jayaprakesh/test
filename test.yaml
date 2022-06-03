@@ -28,4 +28,5 @@ spec:
     severity: 10
     matchPaths:
     - path: /usr/bin/mysqldump
-    action: Block 
+    action: Block
+    go action from yaml file
