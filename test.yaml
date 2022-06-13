@@ -27,5 +27,4 @@ spec:
   process:
     severity: 10
     matchPaths:
-    - path: /usr/bin/mysqldump
-    action: Block 
+    - path: /usr/bin/mysqldum
