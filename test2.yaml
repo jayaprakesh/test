@@ -23,7 +23,7 @@ spec:
     - dir: /var/log/mysql/
       recursive: true
   process:
-    severity: 10
+    severity: 4
     matchPaths:
     - path: /usr/bin/mysqldump
-    action: Block 
+    action: allowed
